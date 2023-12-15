@@ -11,7 +11,7 @@ const loader = document.getElementById('loader');
 async function getQuote() {
   newQuoteButton.classList.add('loading');
   newQuoteButton.innerText = "Loading Quote...";
-  const apiUrl = 'http://api.quotable.io/random';
+  const apiUrl = 'https://api.quotable.io/random';
   try {
     const response = await fetch(apiUrl);
     const data = await response.json();

@@ -8,7 +8,7 @@ This is a simple random quote generator project with some nice functionality and
 
 ## Demo
 
-You can try it out [here](https://eliasdewa14.github.io/hangman-js/)
+You can try it out [here](https://eliasdewa14.github.io/random-quote-generator/)
 
 ## How was it built?
 
